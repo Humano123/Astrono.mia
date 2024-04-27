@@ -67,7 +67,7 @@ img{
 }
 .chao{
     border-radius: 0;
-    width: 2003px;
+    width: 1520px;
 }
 .Rotation{
     animation: Rotation 50s linear infinite;
@@ -120,6 +120,21 @@ img{
 
 }
 .mostra:hover{
+    color: rgb(77, 13, 160);
+    background-color: rgb(255, 0, 0);
+    opacity: 0.5;
+}
+.mostra2{
+    color: var(--txt);
+    font-size: 40px;
+    background-color: rgb(242, 0, 255);
+    border-radius: 0;
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+.mostra2:hover{
     color: rgb(77, 13, 160);
     background-color: rgb(255, 0, 0);
     opacity: 0.5;
